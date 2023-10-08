@@ -41,6 +41,10 @@ button {
   border-radius: 5px;
   font-size: 20px;
 }
+button:hover{
+  background-color: #fae22cb5;
+  cursor: pointer;
+}
 
 @media(max-width:320px){
 
